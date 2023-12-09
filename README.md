@@ -26,6 +26,11 @@ In the journey of building this website, I've gained valuable insights into:
 
 The website is fully responsive, ensuring an optimal viewing experience across various devices. 📱💻
 
+<p align="center">
+  <img src="![image](https://github.com/Sohailongithub/3D-Portfolio-Website/assets/106837055/5bbc4d35-8151-4f7b-850c-b8b54ab6220a)
+" alt="Portfolio Image">
+</p>
+
 ## Contact Form
 
 I've implemented a contact form in the portfolio using [EmailJS](https://www.emailjs.com/) to send and receive emails. Feel free to drop me a message!
